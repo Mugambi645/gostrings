@@ -1,0 +1,2 @@
+# gostrings
+#simple strings programm
